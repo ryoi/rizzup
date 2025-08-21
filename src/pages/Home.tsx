@@ -57,7 +57,7 @@ export default function Home() {
         >
           <div className="flex items-center justify-center gap-3 mb-6">
             <Heart size={48} className="text-primary" />
-            <h1 className="text-5xl font-bold">RizzUp</h1>
+            <h1 className="text-5xl font-bold">Rizz</h1>
           </div>
           
           <h2 className="text-4xl md:text-6xl font-bold mb-6">
@@ -89,7 +89,7 @@ export default function Home() {
             viewport={{ once: true }}
           >
             <h3 className="text-4xl font-bold text-gray-900 mb-4">
-              Why Choose RizzUp?
+              Why Choose Rizz?
             </h3>
           </motion.div>
 

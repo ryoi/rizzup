@@ -1,4 +1,4 @@
-# RizzUp - Find Love Across Borders 🌍💕
+# Rizz - Find Love Across Borders 🌍💕
 
 A modern cross-cultural dating app that connects singles worldwide who are passionate about international romance. Built with React, TypeScript, and Tailwind CSS.
 
@@ -131,7 +131,7 @@ Visit the live application: [https://warm-starburst-dcf6d5.netlify.app](https://
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd rizzup
+cd rizz
 ```
 
 2. Install dependencies:
@@ -160,7 +160,7 @@ npm run preview
 
 ## 📱 Mobile Experience
 
-RizzUp is designed mobile-first with:
+Rizz is designed mobile-first with:
 - Touch-optimized interactions
 - Swipe gestures for discovery
 - Responsive layouts for all screen sizes
@@ -195,5 +195,3 @@ This project is licensed under the MIT License.
 For questions or support, please reach out through the app's contact form.
 
 ---
-
-**RizzUp** - Where borders don't limit love! 🌍💕
